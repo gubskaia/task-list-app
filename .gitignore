@@ -1,0 +1,57 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android specific
+.gradle/
+.idea/
+.cxx/
+*.iml
+*.hprof
+*.log
+.DS_Store
+local.properties
+.externalNativeBuild/
+build/
+app/build/
+*/build/
+
+# Gradle specific
+.gradletasknamecache/
+gradle-app.setting
+gradle-app.properties
+gradle.properties
+gradlew
+gradlew.bat
+gradle-wrapper.properties
+gradle/wrapper/
+
+# Kotlin specific
+*.kt.meta
+
+# Android Studio specific
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/codeStyles/
+.idea/assetWizardSettings.xml
+.idea/dictionaries/
+.idea/jsLibraryMappings.xml
+
+# Generated files
+.gradle/
+captures/
+outputs/
