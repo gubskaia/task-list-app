@@ -55,3 +55,16 @@ gradle/wrapper/
 .gradle/
 captures/
 outputs/
+
+# Ignore Android Studio/IDEA project settings
+.idea/
+*.iml
+
+# Ignore Gradle build files
+.gradle/
+build/
+*/build/
+
+# Ignore local.properties (contains machine-specific configurations)
+local.properties
+
